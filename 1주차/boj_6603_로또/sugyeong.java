@@ -8,7 +8,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int[] arr;
-				boolean[] visited;
+		boolean[] visited;
         int num;
 
         while ((num = Integer.parseInt(st.nextToken())) != 0) { // '0' 입력 시 종료
