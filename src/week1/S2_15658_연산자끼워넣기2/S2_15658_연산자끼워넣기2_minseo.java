@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  * @perf 16812	144
  */
 
-public class S2_15658_연산자끼워넣기2 {
+public class S2_15658_연산자끼워넣기2_minseo{
 
 	static final int plus = 0, minus = 1, mul = 2, div = 3; // 스위치 문에는 상수만 들어갈 수 있어서 final
 	static int n, max, min;
