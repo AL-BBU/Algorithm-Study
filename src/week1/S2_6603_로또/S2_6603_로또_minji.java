@@ -1,11 +1,11 @@
-package week1.S2_6603_로또;
+package week1.S2_6603_로또;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class S2_6603_로또_minji {
+public class S2_6603_로또_minji {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer tokens ;
