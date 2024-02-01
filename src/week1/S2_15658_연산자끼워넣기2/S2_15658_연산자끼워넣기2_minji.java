@@ -1,10 +1,14 @@
 package week1.S2_15658_연산자끼워넣기2;
 
+<<<<<<< HEAD
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
+=======
+public class S2_15658_연산자끼워넣기2_minji {
+>>>>>>> branch 'minji' of https://github.com/AL-BBU/Algorithm-Study.git
 
 
 /**
