@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class S2_15658_연산자끼워넣기_byeongju {
+public class S2_15658_연산자끼워넣기2_byeongju {
 	
 	static BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer st;
